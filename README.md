@@ -103,4 +103,5 @@ The 2025 proposals can be found on the repo [SammanSarkar/GSoC_archive_2025](htt
 <a href="https://github.com/adit-0132"><img src="https://github.com/adit-0132.png" width="50px" alt="adit-0132" /></a>
 <a href="https://github.com/xARSENICx"><img src="https://github.com/xARSENICx.png" width="50px" alt="xARSENICx" /></a>
 <a href="https://github.com/kehach07"><img src="https://github.com/kehach07.png" width="50px" alt="kehach07" /></a>
+<a href="https://github.com/devleo10"><img src="https://github.com/devleo10.png" width="50px" alt="devleo10" /></a>
 <!-- CONTRIBUTORS_END -->
