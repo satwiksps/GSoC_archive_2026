@@ -108,4 +108,5 @@ The 2025 proposals can be found on the repo [SammanSarkar/GSoC_archive_2025](htt
 <a href="https://github.com/nakul-krishnakumar"><img src="https://github.com/nakul-krishnakumar.png" width="50px" alt="nakul-krishnakumar" /></a>
 <a href="https://github.com/goyaladitya05"><img src="https://github.com/goyaladitya05.png" width="50px" alt="goyaladitya05" /></a>
 <a href="https://github.com/abhishrestha"><img src="https://github.com/abhishrestha.png" width="50px" alt="abhishrestha" /></a>
+<a href="https://github.com/TomasGuija"><img src="https://github.com/TomasGuija.png" width="50px" alt="TomasGuija" /></a>
 <!-- CONTRIBUTORS_END -->
