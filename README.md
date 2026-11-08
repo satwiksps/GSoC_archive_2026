@@ -17,7 +17,6 @@
 <a href="https://github.com/mateeb-haider"><img src="https://github.com/mateeb-haider.png" width="50px" alt="mateeb-haider" /></a>
 <a href="https://github.com/gokulan006"><img src="https://github.com/gokulan006.png" width="50px" alt="gokulan006" /></a>
 <a href="https://github.com/vidit-od"><img src="https://github.com/vidit-od.png" width="50px" alt="vidit-od" /></a>
-<a href="https://github.com/M0hammed-Reda"><img src="https://github.com/M0hammed-Reda.png" width="50px" alt="M0hammed-Reda" /></a>
 <a href="https://github.com/Aryan-Verma-999"><img src="https://github.com/Aryan-Verma-999.png" width="50px" alt="Aryan-Verma-999" /></a>
 <a href="https://github.com/not-meet"><img src="https://github.com/not-meet.png" width="50px" alt="not-meet" /></a>
 <a href="https://github.com/Ria-K912"><img src="https://github.com/Ria-K912.png" width="50px" alt="Ria-K912" /></a>
